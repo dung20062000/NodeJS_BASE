@@ -92,3 +92,10 @@ input[type=submit]:hover {
   padding: 20px;
   margin-top: 30px;
 }
+.acction_form{
+  display: flex;
+}
+
+.acction_form form input, .form_create form .form_create_id{
+  display: none;
+}
